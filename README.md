@@ -53,8 +53,8 @@ A modern, secure, and user-friendly Flutter money transfer application with inte
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PLP-Dart-Projects/dart-week-7-TheODDYSEY.git
-   cd dart-week-7-TheODDYSEY
+   git clone https://github.com/PLP-Dart-Projects/money_transfer_app.git
+   cd /money_transfer_app
    ```
 
 2. **Install dependencies**

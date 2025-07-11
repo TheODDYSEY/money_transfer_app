@@ -1,4 +1,4 @@
-# 💰 PLP DART WEEK 7 : SwiftPay - Money Transfer App
+# 💰 SwiftPay - Money Transfer App
 
 A modern, secure, and user-friendly Flutter money transfer application with interactive widgets, custom animations, and a beautiful UI design.
 
